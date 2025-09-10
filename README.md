@@ -18,4 +18,15 @@
     4. one/four
 
 <https://pstu.ru/>
+
 [кликабельный текст](https://pstu.ru "сайт политеха")
+
+![картинка](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Reactos_bsod.png/640px-Reactos_bsod.png "шутка")
+
+```cpp
+int main()
+{
+    std::cout<<"Hello, World!";
+    return 0;
+}
+```
