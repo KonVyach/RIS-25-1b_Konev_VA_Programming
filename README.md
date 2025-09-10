@@ -16,3 +16,6 @@
     2. one/two
     3. one/three
     4. one/four
+
+<https://pstu.ru/>
+[кликабельный текст](https://pstu.ru "сайт политеха")
